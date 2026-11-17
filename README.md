@@ -1,0 +1,2 @@
+# Cyber-Threat-Prediction-and-Assessment-With-Machine-Learning-Approaches
+Cyber Threat Prediction and Assessment Using Machine Learning is a cybersecurity project designed to identify suspicious IP addresses and detect unusual network behaviour using AWS Honeypot data. The project applies three unsupervised machine learning algorithms: K-Means Clustering, Gaussian Mixture Model (GMM), and Isolation Forest.
